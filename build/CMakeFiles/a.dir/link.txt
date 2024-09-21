@@ -1,0 +1,2 @@
+D:\mingw64\bin\ar.exe qc liba.a CMakeFiles/a.dir/src/a.c.obj
+D:\mingw64\bin\ranlib.exe liba.a

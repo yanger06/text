@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Isabella/Desktop/C/vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\a.dir\\src\\a.c.obj -c C:\\Users\\Isabella\\Desktop\\C\\vscode\\src\\a.c",
+  "file": "C:/Users/Isabella/Desktop/C/vscode/src/a.c",
+  "output": "CMakeFiles/a.dir/src/a.c.obj"
+},
+{
+  "directory": "C:/Users/Isabella/Desktop/C/vscode/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\main.dir\\src\\main.c.obj -c C:\\Users\\Isabella\\Desktop\\C\\vscode\\src\\main.c",
+  "file": "C:/Users/Isabella/Desktop/C/vscode/src/main.c",
+  "output": "CMakeFiles/main.dir/src/main.c.obj"
+}
+]

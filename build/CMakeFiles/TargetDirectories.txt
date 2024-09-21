@@ -1,0 +1,4 @@
+C:/Users/Isabella/Desktop/C/vscode/build/CMakeFiles/a.dir
+C:/Users/Isabella/Desktop/C/vscode/build/CMakeFiles/main.dir
+C:/Users/Isabella/Desktop/C/vscode/build/CMakeFiles/edit_cache.dir
+C:/Users/Isabella/Desktop/C/vscode/build/CMakeFiles/rebuild_cache.dir
